@@ -1,6 +1,7 @@
 # PoorMan´s GamePad
  **A simple GamePad for my Teensy games in C#**.
-Copyright (C) 2021 by DIYLAB <https://www.diylab.de>
+
+ Copyright (C) 2021 by DIYLAB <https://www.diylab.de>
 
 ![](screenshots/gamepad.png)
 
