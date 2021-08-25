@@ -10,8 +10,8 @@ The concept is strongly expandable and serves only as an example to control my g
 
 ### The following of my games are supported
 
-- PacMan <Link follows>
-- Tetris <Link follows>
+- PacMan (Link follows)
+- Tetris (Link follows)
 
 ### GitHub/Nuget packages used
 
