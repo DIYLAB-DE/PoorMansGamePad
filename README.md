@@ -1,5 +1,5 @@
 # PoorMan´s GamePad
- **A simple GamePad for my Teensy games in C#**.
+ **A simple GamePad for my Teensy 4.x games in C#**.
 
  Copyright (C) 2021 by DIYLAB <https://www.diylab.de>
 
@@ -10,8 +10,8 @@ The concept is strongly expandable and serves only as an example to control my g
 
 ### The following of my games are supported
 
-- PacMan (Link follows)
-- Tetris (Link follows)
+- PacMan for Teensy 4.x (Project follows)
+- Tetris for Teensy 4.x (Project follows)
 
 ### GitHub/Nuget packages used
 
