@@ -16,7 +16,7 @@ The concept is strongly expandable and serves only as an example to control my g
 ### GitHub/Nuget packages used
 
 1. TeensySharp <https://github.com/luni64/TeensySharp>
-2. Hid Library <https://github.com/mikeobrien/HidLibrary> <https://www.nuget.org/packages/hidlibrary/>
+2. Hid Library <https://github.com/mikeobrien/HidLibrary> 
 
 ### Development software used
 
