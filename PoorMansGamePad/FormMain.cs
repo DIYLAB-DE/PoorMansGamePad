@@ -76,12 +76,6 @@ namespace PoorMansGamePad {
             }
         }
 
-        /// <summary>
-        /// Override ProcessCmdKey
-        /// </summary>
-        /// <param name="msg"></param>
-        /// <param name="keyData"></param>
-        /// <returns></returns>
         protected override bool ProcessCmdKey(ref Message msg, Keys keyData) {
             switch (keyData) {
                 case Keys.A:
@@ -143,9 +137,6 @@ namespace PoorMansGamePad {
             }
         }
 
-        /// <summary>
-        /// Open Serial Port
-        /// </summary>
         private bool OpenPort() {
             bool res = false;
             try {
@@ -157,9 +148,6 @@ namespace PoorMansGamePad {
             return res;
         }
 
-        /// <summary>
-        /// Close Serial Port
-        /// </summary>
         private bool ClosePort() {
             bool res = false;
             try {
@@ -177,11 +165,6 @@ namespace PoorMansGamePad {
             return res;
         }
 
-        /// <summary>
-        /// Write to teensy.
-        /// </summary>
-        /// <param name="address"></param>
-        /// <param name="value"></param>
         private void WriteToTeensy(int address, int value) {
             if (port != null) {
                 try {
