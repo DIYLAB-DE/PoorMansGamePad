@@ -11,7 +11,7 @@ The concept is strongly expandable and serves only as an example to control my g
 ### The following of my games are supported
 
 - [PacMan for Teensy 4.x](https://github.com/DIYLAB-DE/PacMan)
-- Tetris for Teensy 4.x (Project follows)
+- [Tetris for Teensy 4.x](https://github.com/DIYLAB-DE/Tetris)
 
 ### GitHub/Nuget packages used
 
